@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Slackey');
+body{
+  background: #b3ffff;
+  font-family: 'Slackey', cursive;
+font-size: 1.2em;
+color:  #003333;
+
+}
+h1{font-family: 'Bungee Shade', cursive;
+text-align: center;
+font-size: 2.5em;
+margin: 1.2em;
+}
+section{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+fieldset{
+  border-style: dotted;
+  border-radius: 42px 42px 42px 42px;
+-moz-border-radius: 42px 42px 42px 42px;
+-webkit-border-radius: 42px 42px 42px 42px;
+  padding:1em;
+  background-color: #ffffff;
+  padding: 20px;
+}
